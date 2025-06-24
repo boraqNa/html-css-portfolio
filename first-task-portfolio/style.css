@@ -186,7 +186,7 @@ nav h1 {
 
 @media (max-width: 768px) {
   .hero {
-    margin: 10rem 5%;
+    margin: 10rem 5% 4rem 5%;
   }
   .hero-subtitle {
     margin: 0px 0px;
